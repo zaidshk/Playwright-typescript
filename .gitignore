@@ -1,0 +1,7 @@
+node_modules
+allure-results
+build
+resources/lastGenerateTestData.json
+resources/lastCreateUser.json
+screenshots
+videos
